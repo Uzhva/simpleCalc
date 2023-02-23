@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\SimpleCalculator\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleCalculator\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SimpleCalculator\SimpleCalculator\x64\Debug\SimpleCalculator.CalcForm.resources
+C:\Users\User\source\repos\SimpleCalculator\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.GenerateResource.cache

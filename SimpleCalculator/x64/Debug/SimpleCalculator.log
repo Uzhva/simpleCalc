@@ -1,0 +1,4 @@
+﻿  CalcForm.cpp
+C:\Users\User\source\repos\SimpleCalculator\SimpleCalculator\CalcForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  CalcForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SimpleCalculator.vcxproj -> C:\Users\User\source\repos\SimpleCalculator\x64\Debug\SimpleCalculator.exe
